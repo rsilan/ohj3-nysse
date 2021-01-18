@@ -1,3 +1,4 @@
+This README is written by @ Jasikainen.
 ***
 # TIE-02402 - Programming 3: Techniques - project work
 Grading achieved 50/50 points (grade 5)
